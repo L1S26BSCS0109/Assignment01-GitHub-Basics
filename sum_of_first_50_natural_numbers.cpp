@@ -1,3 +1,10 @@
+/*
+    *Program    : Sum of First 50 Natural Numbers
+    *Name       : Syed Qasim Iqbal
+    *Reg No     : L1S26BSCS0109
+    *Assignment : 01 - Getting Started with GitHub
+*/
+
 #include<iostream>
 using namespace std;
 int main()
